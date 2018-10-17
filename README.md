@@ -5,7 +5,7 @@
 
 
 
-** 9月 **： [第1期](docs/issue-26.md) | [第 2 期](docs/issue-25.md)
+** 9月 **： [第1期](docs/issue01.md) | [第 2 期](docs/issue02.md)
 
 
 
